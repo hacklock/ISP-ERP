@@ -1,10 +1,10 @@
-Welcome to the AWS CodeStar sample web application
+Bem-vindo ao aplicativo Web de amostra do AWS CodeStar
 ==================================================
 
-This sample code helps get you started with a simple Java web application
-deployed by AWS Elastic Beanstalk and AWS CloudFormation.
+Este código de amostra ajuda você a começar com um aplicativo da Web Java simples
+implementado pelo AWS Elastic Beanstalk e pelo AWS CloudFormation.
 
-What's Here
+O que há aqui
 -----------
 
 This sample includes:
